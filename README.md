@@ -6,7 +6,7 @@
  Insert image tag here -->
 
 🔭 I’m currently working on:
-            - Onboarding at SingularityNET.io in their Ambassador Program where eventually Ihope to be working in the SNet Archives located here at github!
+            - Onboarding at SingularityNET.io in their Ambassador Program where eventually I hope to be working in the SNet Archives located here at github!
           
 🌱 I’m currently learning:
             * "Introduction-to-github"   
