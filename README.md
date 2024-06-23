@@ -6,11 +6,11 @@
  Insert image tag here -->
 
 🔭 I’m currently working on:
-            - Onboarding at SingularityNET.io in their Ambassador Program where eventually I hope to be working in the SNet Archives located here at github!
+            - I am an Ambassador at SingularityNET.io where I am on the Global AI Ethics Guild, I go to R & D Wokgroups as well.  I am in the planning stages of developing an AI Ethics video game aimed at children to enhance posistive interaction with AI systems. 
           
-🌱 I’m currently learning:
-            * "Introduction-to-github"   
-            *taking crash courses by self teaching about Prompting LLM's
+🌱 I'm learning:
+            * "GitHub Actions"   
+            * taking crash courses by self teaching about Prompting LLM's (with LLM's)
             
 👯 I’m looking to collaborate on:
           * Any positive projects invloving LLMs on Ethical Issues and Creation of Ethics Documents and discussions that time will allow
