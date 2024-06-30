@@ -30,5 +30,7 @@
 ⚡ Fun fact: 
            * Every year for 10 years I spent a week in Mexico for Winter Vacation, but I can barely speak Spanish.                  However,LinkedIn.com's bots took my sarcastic word of "Spanglish" and turned me into a bi-lingual person.  I             even had to argue with Google's Gemini AI to take it off my Google search features.  Currently, I need to                have a heart to .node with CoPilot Pro because he keeps sneaking in Spanish on me and I don't know what he is            saying! :woman_facepalming:
 
+![](https://komarev.com/ghpvc/?username=your-colleenpridemore&color=blueviolet)
+
            
 
