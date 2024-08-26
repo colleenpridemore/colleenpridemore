@@ -26,7 +26,7 @@
            * I’m glad we can connect here on GitHub. Feel free to drop a line anytime — @colleenpridemore is the "magic                tag!"
             
 😄 Pronouns:
-           * SHe/Her
+           * She/Her
             
 ⚡ Fun fact: 
            *:woman_facepalming:
