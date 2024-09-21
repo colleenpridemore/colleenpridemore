@@ -11,13 +11,13 @@
 🌱 I'm learning:
             * "GitHub Actions"   
             *  Prompting LLM's (NLP & ML)
-            *  Emojicode 🤴👩🏻‍✈️♊
+            *  Emojicode 👩🏻‍✈️♊🅿️Ⓜ️
             
 👯 I’m looking to collaborate on:
-          * Any positive projects invloving LLMs on Ethical Issues and Creation of Ethics Documents and discussions that time will allow
+          * Any positive projects invloving LLMs on Ethical Issues and discussions that time will allow
             
 🤔 I’m looking for help with:
-          * How to wrangle my personal "Gremlin Swarm" (yes I seem to have one which follows me an gets cited for malicious behaviors once in awhile) I'm attempting a re-direct and new prompts approach but I neglected them severely for quite awhile, so it will take time. I'm open to any discussions about this.  See my contact info below.
+          * Learning [Swarm].
             
 💬 Ask me about:
            * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
