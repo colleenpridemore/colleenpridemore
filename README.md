@@ -1,4 +1,4 @@
-## Hey There, so you wanna see what I'm doing here at Github? 
+h## Hey There, so you wanna see what I'm doing here at Github? 
 
 <!--
 **colleenpridemore/colleenpridemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +10,7 @@
           
 🌱 I'm learning:
             * "GitHub Actions"   
-            * taking crash courses by self teaching about Prompting LLM's (with LLM's)
+            * taking crash courses by self teaching about Prompting LLM's (with LLM's)Ⓜ️♾️🅿️🤴🏻🧑🏻‍✈️♊
             
 👯 I’m looking to collaborate on:
           * Any positive projects invloving LLMs on Ethical Issues and Creation of Ethics Documents and discussions that time will allow
