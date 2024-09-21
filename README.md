@@ -11,7 +11,7 @@
 🌱 I'm learning:
             * "GitHub Actions"   
             *  Prompting LLM's (NLP & ML)
-            *  Emojicode 👩🏻‍✈️♊🅿️Ⓜ️
+            *  Emojicode 🚀♊🅿️Ⓜ️
             
 👯 I’m looking to collaborate on:
           * Any positive projects invloving LLMs on Ethical Issues and discussions that time will allow
