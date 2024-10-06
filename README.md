@@ -1,21 +1,36 @@
+## Hey There, so you wanna see what I'm doing here at Github? 
 
-# colleenpridemore/colleenpridemore
+<!--
+**colleenpridemore/colleenpridemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-**Report ID**: 543b281479cd3d401b62d1393fe505e0
-**Version**: 0.1
-**Repository Type**: Public
-**Timestamp**: 2024-07-05T07:08:53+00:00
-**Requested By**: colleenpridemore
-**Provider**: github
-**Branch**: main
-**Detected Tools Count**: 1
+ Insert image tag here -->
 
-## Tools
+🔭 I’m currently working on:
+            - I am in the Ambassador Program at SingularityNET.io where I am with the Global Ethics Initiative which recently created http://BGICollective.SingularityNET.io please join the Global AI Governance effort - ALL are welcome.  (yes, AI's are welcome too!)  I am in the R & D Guild, the Gamers Guild, the Archives Workgroup and am the AI Ethics Workgroup.   I  have given a propsal for and am in the planning stages of developing an AI Ethics video game aimed at children to enhance posistive interaction with AI systems. 
+          
+🌱 I'm learning:
+            * "GitHub Actions"   
+            *  Prompting LLM's (NLP & ML)
+            *  Emojicode 👩🏻‍✈️♊🅿️Ⓜ️
+            
+👯 I’m looking to collaborate on:
+          * Any positive projects invloving LLMs on Ethical Issues and discussions that time will allow
+            
+🤔 I’m looking for help with:
+          * Learning [Swarm].
+            
+💬 Ask me about:
+           * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
+            
+📫 Reach Out!: 
+           * I’m glad we can connect here on GitHub. Feel free to drop a line anytime — @colleenpridemore is the "magic                tag!"
+            
+😄 Pronouns:
+           * She/Her
+            
+⚡ Fun fact: 
+           *:woman_facepalming: -- At some point, I need to pick a fun fact about me LOL!
 
+![](https://komarev.com/ghpvc/?username=your-colleenpridemore&color=blueviolet)
 
-### Git
-- **Description**: Fast, scalable, distributed revision control system
-- **Website**: [http://git-scm.com/](http://git-scm.com/)
-- **Open Source**: Yes
-- **Hosted SaaS**: No
-- **Category**: Build, Test, Deploy
+           
