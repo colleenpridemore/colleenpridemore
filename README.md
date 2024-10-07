@@ -13,9 +13,7 @@
           
 🌱 I'm learning:
             * "GitHub Actions"   
-
             * taking crash courses by self teaching about Prompting LLM's (with LLM's)Ⓜ️♾️🅿️🤴🏻🧑🏻‍✈️♊
-=======
             *  Prompting LLM's (NLP & ML)
             *  Emojicode 👩🏻‍✈️♊🅿️Ⓜ️
 
@@ -38,6 +36,6 @@
 ⚡ Fun fact: 
            *:woman_facepalming: -- At some point, I need to pick a fun fact about me LOL!
 
-![](https://img.shields.io/static/v1?label=colleenpridemore+views&message=1234567890&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 
            
