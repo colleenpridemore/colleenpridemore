@@ -1,0 +1,1 @@
+Add accessibility tag descriptions to  https://github.com/antonkomarev/github-profile-views-counter/blob/master/README.md?plain=1
