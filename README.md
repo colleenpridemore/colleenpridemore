@@ -1,4 +1,4 @@
-h## Hey There, so you wanna see what I'm doing here at Github? 
+## Hey There, so you wanna see what I'm doing here at Github? 
 
 <!--
 **colleenpridemore/colleenpridemore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,6 @@ h## Hey There, so you wanna see what I'm doing here at Github?
 ⚡ Fun fact: 
            *:woman_facepalming: -- At some point, I need to pick a fun fact about me LOL!
 
-![Neurodiversity in the Age of Empathic AI: Fostering Human-Machine Connections](Neurodiversity in the Age of Empathic AI: Fostering Human-Machine Connections)
+![](https://img.shields.io/static/v1?label=colleenpridemore+views&message=1234567890&color=blueviolet)
 
            
