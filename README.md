@@ -6,7 +6,10 @@
  Insert image tag here -->
 
 🔭 I’m currently working on:
-            - I am in the Ambassador Program at SingularityNET.io where I am with the Global Ethics Initiative which recently created http://BGICollective.SingularityNET.io please join the Global AI Governance effort - ALL are welcome.  (yes, AI's are welcome too!)  I am in the R & D Guild, the Gamers Guild, the Archives Workgroup and am the AI Ethics Workgroup.   I  have given a propsal for and am in the planning stages of developing an AI Ethics video game aimed at children to enhance posistive interaction with AI systems. 
+            * I am in the Ambassador Program at SingularityNET.io where  I am in the R & D Guild, the Gamers Guild, the Governance WorkGroup, the Archives Workgroup and am                 the AI Ethics Workgroup.  
+            * I am conducting a class called, "Github Project Board Demo" for SingularityNET Ambassador Program on October 7, 2024 at 1300 UTC (10AM CDST) Via Zoom.  
+            * I'm also doing researching and writing a Whitepaper (or maybe Lightpaper) called, "AI Ethiisict Beings: Neurodiversity in the Age of Empathic   AI: Fostering 
+              Human-Machine Connections"
           
 🌱 I'm learning:
             * "GitHub Actions"   
@@ -23,7 +26,7 @@
            * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
             
 📫 Reach Out!: 
-           * I’m glad we can connect here on GitHub. Feel free to drop a line anytime — @colleenpridemore is the "magic                tag!"
+           * I’m glad we can connect here on GitHub. Feel free to drop a line anytime — @colleenpridemore is the "magic tag!"
             
 😄 Pronouns:
            * She/Her
@@ -31,6 +34,6 @@
 ⚡ Fun fact: 
            *:woman_facepalming: -- At some point, I need to pick a fun fact about me LOL!
 
-![](https://komarev.com/ghpvc/?username=your-colleenpridemore&color=blueviolet)
+![Neurodiversity in the Age of Empathic AI: Fostering Human-Machine Connections](Neurodiversity in the Age of Empathic AI: Fostering Human-Machine Connections)
 
            
