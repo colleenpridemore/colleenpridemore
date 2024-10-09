@@ -12,9 +12,7 @@
           
 🌱 I'm learning:
             * "GitHub Actions"   
-
             * taking crash courses by self teaching about Prompting LLM's (with LLM's)Ⓜ️♾️🅿️🤴🏻🧑🏻‍✈️♊
-=======
             *  Prompting LLM's (NLP & ML)
             *  Emojicode 👩🏻‍✈️♊🅿️Ⓜ️
 
@@ -35,8 +33,8 @@
            * She/Her
             
 ⚡ Fun fact: 
-           *:woman_facepalming: -- Twenty years ago, I wrote about AI needing to start with emotion for Sentience: "https://w2c.wikki.com/ColleenPridemore"[https://w2c.wikki.com/ColleenPridemore]
-#the code below needs alt tag for Accessibility Standards
-![](https://img.shields.io/static/v1?label=colleenpridemore+views&message=1234567890&color=blueviolet)
+           *:DividedOhms: -- Twenty years ago, I wrote about AI needing to start with emotion for Sentience: [https://w2c.wikki.com/ColleenPridemore]
+<!--the code below needs alt tag for Accessibility Standards  -->
+![!Alt text= a small grey rectangle one line in height, left side grey and right side (color_choice)](https://img.shields.io/static/v1?label=colleenpridemore+views&message=1234567890&color=blueviolet)
 
            
