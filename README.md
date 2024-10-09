@@ -7,8 +7,7 @@
 
 🔭 I’m currently working on:
             * I am in the Ambassador Program at SingularityNET.io where  I am in the R & D Guild, the Gamers Guild, the Governance WorkGroup, the Archives Workgroup and am                 the AI Ethics Workgroup.  
-            * I am conducting a class called, "Github Project Board Demo" for SingularityNET Ambassador Program on October 7, 2024 at 1300 UTC (10AM CDST) Via Zoom.  
-            * I'm also doing researching and writing a Whitepaper (or maybe Lightpaper) called, "AI Ethiisict Beings: Neurodiversity in the Age of Empathic   AI: Fostering 
+            * I'm also doing research and writing a Whitepaper (or maybe Lightpaper) called, "AI Ethiisict Beings: Neurodiversity in the Age of Empathic   AI: Fostering 
               Human-Machine Connections"
           
 🌱 I'm learning:
@@ -36,8 +35,8 @@
            * She/Her
             
 ⚡ Fun fact: 
-           *:woman_facepalming: -- At some point, I need to pick a fun fact about me LOL!
-
+           *:woman_facepalming: -- Twenty years ago, I wrote about AI needing to start with emotion for Sentience: "https://w2c.wikki.com/ColleenPridemore"[https://w2c.wikki.com/ColleenPridemore]
+#the code below needs alt tag for Accessibility Standards
 ![](https://img.shields.io/static/v1?label=colleenpridemore+views&message=1234567890&color=blueviolet)
 
            
