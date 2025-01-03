@@ -21,7 +21,7 @@
 
 😄 Pronouns: * She/Her
 
-⚡ Fun fact: *:woman_facepalming: -- I have a NeuroDivergent brain.
+⚡ Fun fact: * :woman_facepalming: -- I have a NeuroDivergent brain.
 
 
  ![](https://komarev.com/ghpvc/?username=colleenpridemore&color=blueviolet)   *As of January 3, 2025
