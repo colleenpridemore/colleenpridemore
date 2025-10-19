@@ -1,19 +1,20 @@
 
 # Hey There, so you wanna see what I'm doing here at Github?
-🔭 * I’m currently working on: - I am in the Ambassador Program at SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS - Global AI Governance
+🔭 *I’m currently working on: The Hackathon https://bgihackathon.com and the winners will be presented Thursday, October 22 and you can attend Virtually - for FREE - Register at https://bgisummit.io*
 
-✍️ * I'm in the process of writing a Whitepaper (Lightpaper?) entitled, "AI Ethicist Beings: Neurodiversity in the Age of Empathic AI: Fostering Human-Machine Connections"
+I am in the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS - Global AI Governance.  
 
-🍏 * I have a tentative offer to develop an Ambassador Program for Lingo.ai [Lingo Pods] which will have a marketplace for PID userdata where anyone can monitize their personal data and it will eventually be a UBI DAO [Universal Basic Income] for every human on Earth!
+In addition, I am the Founder of https://violetsitesytems.com
+
+Check out the SingulairtyNET Development Platform:  https://dev.singularityNET.io
+
 
 🌱 * I'm learning: 
 * GitHub Actions & Workflows
 * Prompting LLM's (NLP & ML)
-* Emojicode 👩‍✈️♊🅿️Ⓜ️
+* Agentic Modular Frameworks using ASI:Cloud
 
 👯 I’m looking to collaborate on: * Any positive projects invloving AI Ethics Issues and discussions that time will allow
-
-🤔 I’m looking for help with: * Tips on teaching code to kids
 
 💬 Ask me about: * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
 
