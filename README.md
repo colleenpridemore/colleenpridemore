@@ -1,5 +1,5 @@
 
-# Hey There, so you wanna see what I'm doing here at Github?  https://congenial-guide-j74rxrwvgghqg9w-3000.app.github.dev/
+# Hey There, so you wanna see what I'm doing here at Github?  
 🔭 *I’m currently working on: The BGI25 Hackathon https://bgihackathon.com and the winners will be presented Thursday, October 22 and you can attend Virtually - for FREE - Register at https://bgisummit.io*
 
 I am in the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS - Global AI Governance.  
