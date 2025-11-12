@@ -21,7 +21,7 @@ Check out the SingulairtyNET Development Platform:  https://dev.singularityNET.i
 
 😄 Pronouns: * She/Her/Cyborg
 
-⚡ Fun fact: * :woman_facepalming: -- I have a NeuroDivergent brain.
+⚡ Fun fact: * :woman_facepalming: -- I have a NeuroDivergent brain and a Biocentric Empathic Nature
 
 
  ![](https://komarev.com/ghpvc/?username=colleenpridemore&color=blueviolet)   *As of January 3, 2025
