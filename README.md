@@ -5,11 +5,11 @@ I am in the Ambassador Program at https://SingularityNET.io where I am in the R 
 
 In addition, I am the Founder of https://violetsitesytems.com
 
-Check out the SingulairtyNET Development Platform:  https://dev.singularityNET.io
+Check out the SingulairtyNET Development Platform:   https://dev.singularityNET.io
 
 
 🌱 * I'm learning: 
-* Mulit-Agent Agentverse.ai
+* Mulit-Agent System (MAS) in  https://Agentverse.ai
 * Github hosting apps on Vercell and Netify
 * Agentic Modular Design using ASI:Cloud - https://asicloud.cudos.org and vibe coding Agent orchestration with https://asi1.ai (Aethel)
 
