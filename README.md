@@ -1,17 +1,19 @@
 
 # Hey There, so you wanna see what I'm doing here at Github?  
 
-I am in the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS - Global AI Governance.  
+I am still a Core Contributor of the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS https://bginexus.io Where we are guiding Beneficial AGI.  
+
+I am developing Decentralized Autonomous Communities with a $DAC Token and DAO Guide Agent to assist communitites in their creation of DAO's.
 
 In addition, I am the Founder of https://violetsitesytems.com
-
-Check out the SingulairtyNET Development Platform:   https://dev.singularityNET.io
+ 
+If you are interested in Advanced AI Development, I encourage you to check out https://asicloud.cudos.org and become part of the ASI Alliance Developer Community: https://community.superintelligence.io/
 
 
 🌱 * I'm learning: 
 * Mulit-Agent System (MAS) in  https://Agentverse.ai
 * Github hosting apps on Vercell and Netify
-* Agentic Modular Design using ASI:Cloud - https://asicloud.cudos.org and vibe coding Agent orchestration with https://asi1.ai (Aethel)
+* Other AI Architectures such as Scoastic -- other than current Transformer Models
 
 👯 I’m looking to on: * Any positive projects invloving AI Ethics Issues and discussions that time will allow
 
