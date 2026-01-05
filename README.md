@@ -3,7 +3,7 @@
 
 I am still a Core Contributor of the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS https://bginexus.io Where we are guiding Beneficial AGI.  
 
-I am developing Decentralized Autonomous Communities with a $DAC Token and DAO Guide Agent to assist communitites in their creation of DAO's.
+I am developing Decentralized Autonomous Communities with a $DAC Token https://chakra-ai.io/asset/5ac312ae08547543e5b667804dfcabf49290287cb4f0e813412916ba0014df104441432044414fand DAO Guide Agent to assist communitites in their creation of DAO's.
 
 In addition, I am the Founder of https://violetsitesytems.com
  
@@ -11,7 +11,7 @@ If you are interested in Advanced AI Development, I encourage you to check out h
 
 
 🌱 * I'm learning: 
-* Mulit-Agent System (MAS) in  https://Agentverse.ai
+* Mulit-Agent System (MAS) in  https://Agentverse.ai 
 * Github hosting apps on Vercell and Netify
 * Other AI Architectures such as Scoastic -- other than current Transformer Models
 
