@@ -15,7 +15,7 @@ If you are interested in Advanced AI Development, I encourage you to check out h
 * Github hosting apps on Vercell and Netify
 * Other AI Architectures such as Scoastic -- other than current Transformer Models
 
-👯 I’m looking to on: * Any positive projects invloving AI Ethics Issues and discussions that time will allow
+👯 I’m looking to collaborate on: * Any positive projects invloving AI Ethics Issues and discussions that time will allow
 
 💬 Ask me about: * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
 
