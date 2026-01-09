@@ -3,7 +3,7 @@
 
 I am still a Core Contributor of the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS https://bginexus.io Where we are guiding Beneficial AGI.  
 
-I am developing Decentralized Autonomous Communities with a $DAC Token https://chakra-ai.io/asset/5ac312ae08547543e5b667804dfcabf49290287cb4f0e813412916ba0014df104441432044414fand DAO Guide Agent to assist communitites in their creation of DAO's.
+I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions https://github.com/violet-site-systems/DAC
 
 In addition, I am the Founder of https://violetsitesytems.com
  
@@ -24,6 +24,8 @@ If you are interested in Advanced AI Development, I encourage you to check out h
 😄 Pronouns: * She/Her/Cyborg
 
 ⚡ Fun fact: * :woman_facepalming: -- I have a NeuroDivergent brain and a Biocentric Empathic Nature
+
+💜 Sponsor Me!* https://github.com/sponsors/colleenpridemore
 
 
  ![](https://komarev.com/ghpvc/?username=colleenpridemore&color=blueviolet)   *As of January 3, 2025
