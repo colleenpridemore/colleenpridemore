@@ -5,7 +5,7 @@ I am still a Core Contributor of the Ambassador Program at https://SingularityNE
 
 I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions https://github.com/violet-site-systems/DAC
 
-In addition, I am the Founder of https://violetsitesytems.com
+In addition, I am the Founder of https://violetsitesystems.com
  
 If you are interested in Advanced AI Development, I encourage you to check out https://asicloud.cudos.org and become part of the ASI Alliance Developer Community: https://community.superintelligence.io/
 
