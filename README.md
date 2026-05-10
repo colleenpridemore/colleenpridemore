@@ -1,17 +1,20 @@
 
 # Hey There, so you wanna see what I'm doing here at Github?  
 
-I am still a Core Contributor of the Ambassador Program at https://SingularityNET.io where I am in the R & D Guild, the Governance Goup and the AI Ethics Workgroup and I'm also involved with the BGI BEGIN NEXUS https://bginexus.io Where we are guiding Beneficial AGI.  
+I am a Contractor for the Ambassador Program at [SingularityNET](https://SingularityNET.io) where I am a Core Contributor and I'm also involved with the [BGI NEXUS](https://bginexus.io) Where we are guiding Beneficial AGI. I am a member of the MMMOs Workgroup (Massively, Meaningful, Multipolar Outcomes)   
 
-I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions https://github.com/violet-site-systems/DAC
+I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions [Violet Site Systems DAC Github Repo](https://github.com/violet-site-systems/DAC)
+  
+Also in development is the Threshold Guardian Protocol - See the latest research here, near the [Active Inference Institute](https://www.activeinference.institute/)
+[The TGP Solves the Rogers Paradox](https://coda.io/d/_dsaemx5nyT6/TGP-Threshold-Guardian-Protocol_suHjTuym)
 
-In addition, I am the Founder of https://violetsitesystems.com
- 
-If you are interested in Advanced AI Development, I encourage you to check out https://asicloud.cudos.org and become part of the ASI Alliance Developer Community: https://community.superintelligence.io/
+In addition, I am the Founder of [Violet Site Systems](https://violetsitesystems.com)
+
+If you are interested in Advanced AI Development, I encourage you to check out [ASI:CLoud](https://asicloud.cudos.org) and become part of the [ASI Alliance Developer Community](https://community.superintelligence.io/)
 
 
 🌱 * I'm learning: 
-* Mulit-Agent System (MAS) in  https://Agentverse.ai 
+* Mulit-Agent System (MAS) in  [Agentverse.ai](https://Agentverse.ai) 
 * Github hosting apps on Vercell and Netify
 * Other AI Architectures such as Scoastic -- other than current Transformer Models
 
