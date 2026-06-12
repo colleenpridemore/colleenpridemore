@@ -3,6 +3,8 @@
 
 I am a Contractor for the Ambassador Program at [SingularityNET](https://SingularityNET.io) where I am a Core Contributor and I'm also involved with the [BGI NEXUS](https://bginexus.io) Where we are guiding Beneficial AGI. I am a member of the MMMOs Workgroup (Massively, Meaningful, Multipolar Outcomes)   
 
+I have proposed 'Ambient Energy Gardens Lattice Project' to Christine Shriver's Amygdala Layer (with CURAD) within the BGI Workgroups - which converts environmental entropy into micro-power by functioning as a Metamaterial Spatial Resonator Field for the Amygdala Layer/CURAD following BGINexus Alignment Values.  
+
 I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions [Violet Site Systems DAC Github Repo](https://github.com/violet-site-systems/DAC)
   
 Also in development is the Threshold Guardian Protocol - See the latest research here, near the [Active Inference Institute](https://www.activeinference.institute/)
