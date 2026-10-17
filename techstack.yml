@@ -18,3 +18,14 @@ tools:
   image_url: https://img.stackshare.io/service/1046/git.png
   detection_source_url: https://github.com/colleenpridemore/colleenpridemore
   detection_source: Repo Metadata
+
+- name: Python
+  description: High-level programming language used for the project
+  website_url: https://www.python.org/
+  open_source: true
+  hosted_saas: false
+  category: Language
+  sub_category: Programming Language
+  image_url: https://www.python.org/static/community_logos/python-logo.png
+  detection_source_url: https://github.com/colleenpridemore/colleenpridemore
+  detection_source: GitHub Language Statistics

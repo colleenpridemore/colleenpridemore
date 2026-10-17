@@ -1,30 +1,25 @@
 #!/usr/bin/env python3
-"""Generate a human-friendly techstack.md from techstack.yml.
-
-Writes a grouped, icon-rich Markdown report to techstack.md.
-
-Usage: python3 generate_readme.py
-"""
+"""Generate a human-friendly techstack.md from techstack.yml."""
 from collections import defaultdict
 from datetime import datetime
+import importlib
 import pathlib
 import sys
 
 try:
-    import yaml
+    yaml = importlib.import_module("yaml")
 except Exception:
-    print("PyYAML is required. Install with: pip install pyyaml", file=sys.stderr)
+    print("Install PyYAML: pip install pyyaml", file=sys.stderr)
     sys.exit(1)
 
 INPUT_FILE = pathlib.Path("techstack.yml")
 OUTPUT_FILE = pathlib.Path("techstack.md")
 
 if not INPUT_FILE.exists():
-    print(f"Error: {INPUT_FILE} not found. Create it with your tech stack metadata.", file=sys.stderr)
+    print(f"{INPUT_FILE} not found", file=sys.stderr)
     sys.exit(1)
 
-with INPUT_FILE.open("r", encoding="utf-8") as f:
-    data = yaml.safe_load(f) or {}
+data = yaml.safe_load(INPUT_FILE.read_text(encoding="utf-8")) or {}
 
 repo_name = data.get("repo_name", INPUT_FILE.stem)
 report_id = data.get("report_id", "unknown")
@@ -57,13 +52,19 @@ lines.append("## Tech Stack")
 lines.append("")
 
 if not tools:
-    lines.append("No tools detected. Edit `techstack.yml` to add your tooling.")
+    lines.append(
+        "No tools detected. Edit `techstack.yml` to add your tooling."
+    )
 else:
     for category in sorted(groups.keys()):
         group_tools = groups[category]
         lines.append(f"### {category} ({len(group_tools)})")
         lines.append("")
-        lines.append("| Icon | Tool | Description | Website | Open Source | Hosted SaaS |")
+        table_header = (
+            "| Icon | Tool | Description | Website | "
+            "Open Source | Hosted SaaS |"
+        )
+        lines.append(table_header)
         lines.append("|---|---|---|---|---:|---:|")
         for tool in group_tools:
             name = tool.get("name", "Unnamed")
@@ -73,14 +74,25 @@ else:
             open_source = "Yes" if tool.get("open_source") else "No"
             hosted = "Yes" if tool.get("hosted_saas") else "No"
             img = tool.get("image_url", "")
-            icon_md = f"<img src=\"{img}\" width=36 height=36 alt=\"{name}\" />" if img else ""
+            icon_md = (
+                f'<img src="{img}" width="36" height="36" alt="{name}" />'
+                if img
+                else ""
+            )
             tool_md = f"[{name}]({website})" if website else name
-            lines.append(f"| {icon_md} | {tool_md} | {desc} | {site_md} | {open_source} | {hosted} |")
+            row = (
+                f"| {icon_md} | {tool_md} | {desc} | {site_md} | "
+                f"{open_source} | {hosted} |"
+            )
+            lines.append(row)
         lines.append("")
 
 lines.append("---")
 lines.append("")
-lines.append("Generated from `techstack.yml`. To re-generate locally: `python3 generate_readme.py`")
+lines.append(
+    "Generated from `techstack.yml`. To re-generate locally: "
+    "`python3 generate_readme.py`"
+)
 lines.append("")
 
 OUTPUT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
