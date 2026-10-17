@@ -14,7 +14,7 @@
 
 | Icon | Tool | Description | Website | Open Source | Hosted SaaS |
 |---|---|---|---|---:|---:|
-| <img src="https://img.stackshare.io/service/1046/git.png" width="36" height="36" alt="Git" /> | [Git](http://git-scm.com/) | Fast, scalable, distributed revision control system | [http://git-scm.com/](http://git-scm.com/) | Yes | No |
+| <img src="https://img.stackshare.io/service/1046/git.png" width="36" height="36" alt="Git" /> | [Git](https://git-scm.com/) | Fast, scalable, distributed revision control system | [https://git-scm.com/](http://git-scm.com/) | Yes | No |
 
 ---
 
