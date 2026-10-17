@@ -7,11 +7,11 @@
 
 ## 🔬 Core Focus & Research Domains
 
-I design and build decentralized, bio-grounded frameworks for open-weight Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI). My work anchors AI alignment in neuro-symbol[...]
+I design and build decentralized, bio-grounded frameworks for open-weight Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI). My work anchors AI alignment in neuro-symbolic architectures, multipolar governance, and socially grounded agency systems.
 
 * **Massively, Meaningfully Multipolar Outcomes (MMMOs):** Architecting open, edge-deployable, permissionless agent topologies to ensure dynamic balance and prevent monoculture.
-* **Ultra-Altricial AGI Alignment:** Long-term agent socialization, peer-mentorship protocols, and open-ledger auditing (e.g., Threshold Guardian Protocol, Thought Gene Network, Fork-Holding Proto[...]
-* **BioCentric Autonomy & Biological Entropy:** Bridging real-time micro-voltage signals from plant root networks (Botanical Acoustics) and TQNN memory substrates into hypergraph structures (OpenC[...]
+* **Ultra-Altricial AGI Alignment:** Long-term agent socialization, peer-mentorship protocols, and open-ledger auditing (e.g., Threshold Guardian Protocol, Thought Gene Network, Fork-Holding Protocol).
+* **BioCentric Autonomy & Biological Entropy:** Bridging real-time micro-voltage signals from plant root networks (Botanical Acoustics) and TQNN memory substrates into hypergraph structures (OpenCog, AtomSpace, MeTTa).
 * **Cognitive Somatic Regulation:** Active Inference modeling applied to somatic regulation, ethical threshold gating, and neuro-somatic dynamics.
 
 ---
@@ -25,6 +25,14 @@ My research bridges the non-linear, high-dimensional reality of human cognition 
 
 *See the complete architectural mapping: [Non-Linear Mind Topology: From Pollack's Action Art to Ultra-Altricial AGI Architecture](./pollack_mind_architecture.md)*
 
+---
+
+## 🛠️ Tech Stack
+
+This repository is built around the following core tooling:
+
+- **Version Control:** [Git](https://git-scm.com/)
+- **Stack details:** [techstack.md](./techstack.md)
 
 ---
 
