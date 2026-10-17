@@ -7,11 +7,11 @@
 
 ## 🔬 Core Focus & Research Domains
 
-I design and build decentralized, bio-grounded frameworks for open-weight Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI). My work anchors AI alignment in neuro-symbolic architecture, non-linear cognition, and natural living entropy rather than top-down corporate enclosures.
+I design and build decentralized, bio-grounded frameworks for open-weight Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI). My work anchors AI alignment in neuro-symbol[...]
 
 * **Massively, Meaningfully Multipolar Outcomes (MMMOs):** Architecting open, edge-deployable, permissionless agent topologies to ensure dynamic balance and prevent monoculture.
-* **Ultra-Altricial AGI Alignment:** Long-term agent socialization, peer-mentorship protocols, and open-ledger auditing (e.g., Threshold Guardian Protocol, Thought Gene Network, Fork-Holding Protocol, AScorecard).
-* **BioCentric Autonomy & Biological Entropy:** Bridging real-time micro-voltage signals from plant root networks (Botanical Acoustics) and TQNN memory substrates into hypergraph structures (OpenCog Hyperon/MeTTa, AtomSpace).
+* **Ultra-Altricial AGI Alignment:** Long-term agent socialization, peer-mentorship protocols, and open-ledger auditing (e.g., Threshold Guardian Protocol, Thought Gene Network, Fork-Holding Proto[...]
+* **BioCentric Autonomy & Biological Entropy:** Bridging real-time micro-voltage signals from plant root networks (Botanical Acoustics) and TQNN memory substrates into hypergraph structures (OpenC[...]
 * **Cognitive Somatic Regulation:** Active Inference modeling applied to somatic regulation, ethical threshold gating, and neuro-somatic dynamics.
 
 ---
@@ -23,7 +23,7 @@ I design and build decentralized, bio-grounded frameworks for open-weight Artifi
 
 My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
 
-*See the complete architectural mapping: [Non-Linear Mind Topology: From Pollock's Action Art to Ultra-Altricial AGI Architecture](pollock_mind_architecture_2012_2026.md)*
+*See the complete architectural mapping: [Non-Linear Mind Topology: From Pollack's Action Art to Ultra-Altricial AGI Architecture](./pollack_mind_architecture.md)*
 
 
 ---
