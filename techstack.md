@@ -7,13 +7,15 @@
 **Requested By**: colleenpridemore
 **Provider**: github
 **Branch**: main
-**Detected Tools Count**: 1
 
-## Tools
+## Tech Stack
 
-### Git
-- **Description**: Fast, scalable, distributed revision control system
-- **Website**: [http://git-scm.com/](http://git-scm.com/)
-- **Open Source**: Yes
-- **Hosted SaaS**: No
-- **Category**: Build, Test, Deploy
+### Build, Test, Deploy (1)
+
+| Icon | Tool | Description | Website | Open Source | Hosted SaaS |
+|---|---|---|---|---:|---:|
+| <img src="https://img.stackshare.io/service/1046/git.png" width="36" height="36" alt="Git" /> | [Git](http://git-scm.com/) | Fast, scalable, distributed revision control system | [http://git-scm.com/](http://git-scm.com/) | Yes | No |
+
+---
+
+Generated from `techstack.yml`. To re-generate locally: `python3 generate_readme.py`
