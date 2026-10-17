@@ -1,37 +1,42 @@
+# Colleen Lillian Pridemore 🦋
 
-# Hey There, so you wanna see what I'm doing here at Github?  
+**Founder & Systems Vibe Architect, [Violet Site Systems](https://github.com/colleenpridemore)**  
+*Systems & Governance Contributor @ SingularityNET | Workgroup Lead, Massively, Meaningfully Multipolar Outcomes (MMMOs) @ BGINexus.io | Omega Builder @ bgicommons.org*
 
-I am a Contractor for the Ambassador Program at [SingularityNET](https://SingularityNET.io) where I am a Core Contributor and I'm also involved with the [BGI NEXUS](https://bginexus.io) Where we are guiding Beneficial AGI. I am a member of the MMMOs Workgroup (Massively, Meaningful, Multipolar Outcomes)   
+---
 
-I have proposed 'Ambient Energy Gardens Lattice Project' to Christine Shriver's Amygdala Layer (with CURAD) within the BGI Workgroups - which converts environmental entropy into micro-power by functioning as a Metamaterial Spatial Resonator Field for the Amygdala Layer/CURAD following BGINexus Alignment Values.  
+## 🔬 Core Focus & Research Domains
 
-I am developing Decentralized Autonomous Communities with Sustainability Code Licenses a Biocentric Impact Assessment API and DAC Node Setup Instructions [Violet Site Systems DAC Github Repo](https://github.com/violet-site-systems/DAC)
-  
-Also in development is the Threshold Guardian Protocol - See the latest research here, near the [Active Inference Institute](https://www.activeinference.institute/)
-[The TGP Solves the Rogers Paradox](https://coda.io/d/_dsaemx5nyT6/TGP-Threshold-Guardian-Protocol_suHjTuym)
+I design and build decentralized, bio-grounded frameworks for open-weight Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI). My work anchors AI alignment in neuro-symbolic architecture, non-linear cognition, and natural living entropy rather than top-down corporate enclosures.
 
-In addition, I am the Founder of [Violet Site Systems](https://violetsitesystems.com)
+* **Massively, Meaningfully Multipolar Outcomes (MMMOs):** Architecting open, edge-deployable, permissionless agent topologies to ensure dynamic balance and prevent monoculture.
+* **Ultra-Altricial AGI Alignment:** Long-term agent socialization, peer-mentorship protocols, and open-ledger auditing (e.g., Threshold Guardian Protocol, Thought Gene Network, Fork-Holding Protocol, AScorecard).
+* **BioCentric Autonomy & Biological Entropy:** Bridging real-time micro-voltage signals from plant root networks (Botanical Acoustics) and TQNN memory substrates into hypergraph structures (OpenCog Hyperon/MeTTa, AtomSpace).
+* **Cognitive Somatic Regulation:** Active Inference modeling applied to somatic regulation, ethical threshold gating, and neuro-somatic dynamics.
 
-If you are interested in Advanced AI Development, I encourage you to check out [ASI:CLoud](https://asicloud.cudos.org) and become part of the [ASI Alliance Developer Community](https://community.superintelligence.io/)
+---
 
+## 📜 Philosophical Anchor
 
-🌱 * I'm learning: 
-* Mulit-Agent System (MAS) in  [Agentverse.ai](https://Agentverse.ai) 
-* Github hosting apps on Vercell and Netify
-* Other AI Architectures such as Scoastic -- other than current Transformer Models
+> *"Plain words won't say / So the closest I find, / Is Pollack's expression / Of behind the mind"*  
+> — **[HeArt Affliction (June 2012)](https://hypoetic.blogspot.com/2012/06/heart-affliction.html?m=1)**
 
-👯 I’m looking to collaborate on: * Any positive projects invloving AI Ethics Issues and discussions that time will allow
+My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
 
-💬 Ask me about: * Going back to school at 35 y/o for Computer Science and learning 14 computer programming languages in 2.5 years
+---
 
-📫 Reach Out!: * I’m glad we can connect here on GitHub. Feel free to drop a line anytime — @colleenpridemore is the "magic tag!"
+## 🚀 Key Ecosystem Contributions & Repositories
 
-😄 Pronouns: * She/Her/Cyborg
+* **[BioCentric Autonomy Lab](https://github.com/colleenpridemore):** Decentralized AI safety frameworks, biological entropy grounding, and safety evaluation protocols.
+* **[AScorecard Framework](https://github.com/colleenpridemore):** Open evaluation metrics for altricial agent autonomy and alignment.
+* **[The Agency of Mushrooms / VRE-Lab]:** Virtual reality environment modeling mycelium network dynamics to teach reciprocal governance concepts.
+* **[Neurodivergent-Biocentric AI Alignment Strategy](https://github.com/colleenpridemore/neurodivergent-biocentric-alignment):** Frameworks for compassionate, universally beneficial AI systems.
 
-⚡ Fun fact: * :woman_facepalming: -- I have a NeuroDivergent brain and a Biocentric Empathic Nature
+---
 
-💜 Sponsor Me!* https://github.com/sponsors/colleenpridemore
+## 🌐 Connect & Collaborate
 
-
- ![](https://komarev.com/ghpvc/?username=colleenpridemore&color=blueviolet)   *As of January 3, 2025
-
+* **ORCID:** [0009-0004-2740-1389](https://orcid.org/0009-0004-2740-1389)
+* **AlphaXiv:** [@colleen-pridemore](https://www.alphaxiv.org/@colleen-pridemore)
+* **LinkedIn:** [Colleen Pridemore](https://www.linkedin.com/in/colleenpridemore)
+* **Blog:** [HyPoetic — The Manifested State](https://hypoetic.blogspot.com/)
