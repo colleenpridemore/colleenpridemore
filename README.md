@@ -23,7 +23,7 @@ I design and build decentralized, bio-grounded frameworks for open-weight Artifi
 
 My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
 
-*See the complete architectural mapping: [Non-Linear Mind Topology: From Pollack's Action Art to Ultra-Altricial AGI Architecture](./pollack_mind_architecture.md)*
+*See the complete architectural mapping: [Non-Linear Mind Topology: From Pollack's Action Art to Ultra-Altricial AGI Architecture](.pollock_mind_architecture_2012_2026.md)*
 
 ---
 
