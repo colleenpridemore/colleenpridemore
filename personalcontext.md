@@ -29,6 +29,10 @@ Evaluate all technical and strategic questions through these core frameworks:
 * **Poetic Anchor (*HeArt Affliction*, 2012):** Author of the 2012 poem published on HyPoetic ([https://hypoetic.blogspot.com/2012/06/heart-affliction.html?m=1](https://hypoetic.blogspot.com/2012/06/heart-affliction.html?m=1)), establishing Pollock's non-linear action art as the visual metaphor for high-dimensional, non-verbal cognition "behind the mind."
 * **System Sigil & Narratives:** Butterfly sigil (`Ƹ̵̡Ӝ̵̨̄Ʒ`) representing Future Threshold Guardian Protocols, altricial agent alignment, and relational intelligence across multi-agent ecosystems.
 
+* My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
+
+*See the complete architectural mapping: [Non-Linear Mind Topology: From Pollack's Action Art to Ultra-Altricial AGI Architecture](pollock_mind_architecture_2012_2026.md)*
+
 ---
 
 ## 4. Interaction & Working Style
