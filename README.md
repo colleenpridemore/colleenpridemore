@@ -22,7 +22,7 @@ I design and build decentralized, bio-grounded frameworks for open-weight Artifi
 > — **[HeArt Affliction (June 2012)](https://hypoetic.blogspot.com/2012/06/heart-affliction.html?m=1)**
 
 <video controls width="800" poster="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/video-poster.png">
-  <source src="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/Seek%20Quantum%20Proof%20(Remastered).mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/Seek%20Quantum%20Proof%20-Remastered.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
