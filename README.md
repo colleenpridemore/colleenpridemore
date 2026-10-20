@@ -1,6 +1,6 @@
 # Colleen Lillian Pridemore 🦋
 
-**Founder & Systems Vibe Architect, [Violet Site Systems](https://github.com/colleenpridemore)**  
+**Founder & Systems Vibe Architect, [Violet Site Systems](https://violetsitesystems.com)**  
 *Systems & Governance Contributor @ SingularityNET | Workgroup Lead, Massively, Meaningfully Multipolar Outcomes (MMMOs) @ BGINexus.io | Omega Builder @ bgicommons.org*
 
 ---
