@@ -21,11 +21,11 @@ I design and build decentralized, bio-grounded frameworks for open-weight Artifi
 > *"Plain words won't say / So the closest I find, / Is Pollack's expression / Of behind the mind"*  
 > — **[HeArt Affliction (June 2012)](https://hypoetic.blogspot.com/2012/06/heart-affliction.html?m=1)**
 
-<video controls width="800" poster="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/video-poster.png">
-  <source src="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/Seek%20Quantum%20Proof%20-Remastered.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## 🎥 Philosophical Video
 
+<a href="https://youtube.com/shorts/aFxhr_ozlAs?si=war1RbKF9KA5s9qV">
+  <img src="https://img.youtube.com/vi/aFxhr_ozlAs/maxresdefault.jpg" alt="Watch on YouTube" width="800">
+</a>
 
 My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
 
