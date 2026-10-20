@@ -23,9 +23,11 @@ I design and build decentralized, bio-grounded frameworks for open-weight Artifi
 
 ## 🎥 Behind the Mind
 
-<a href="https://youtube.com/shorts/aFxhr_ozlAs?si=war1RbKF9KA5s9qV">
-  <img src="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/video-poster.png" alt="Watch on YouTube" width="480">
-</a>
+<p align="center">
+  <a href="https://youtube.com/shorts/aFxhr_ozlAs?si=war1RbKF9KA5s9qV">
+    <img src="https://raw.githubusercontent.com/colleenpridemore/colleenpridemore/main/video-poster.png" alt="Watch on YouTube" width="480">
+  </a>
+</p>
 
 My research bridges the non-linear, high-dimensional reality of human cognition ("behind the mind") with modern hypergraph topologies and distributed multi-agent systems.
 
