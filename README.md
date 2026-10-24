@@ -46,8 +46,8 @@ This repository is built around the following core tooling:
 
 ## 🚀 Key Ecosystem Contributions & Repositories
 
-* **[BioCentric Autonomy Lab](https://github.com/colleenpridemore):** Decentralized AI safety frameworks, biological entropy grounding, and safety evaluation protocols.
-* **[AScorecard Framework]([https://github.com/colleenpridemore](https://github.com/colleenpridemore/AScorecard)):** Open evaluation metrics for altricial agent autonomy and alignment.
+* **[BioCentric Autonomy Lab(https://agentverse.ai/agents/details/agent1qgdm8wg45332yksa2y4d4qg89xwyjx63jlly39kh89wjxguryeyk6lf3eq7/profile)]:** Decentralized AI safety frameworks, biological entropy grounding, and safety evaluation protocols.
+* **[AScorecard Framework](https://github.com/colleenpridemore/AScorecard)]:** Open evaluation metrics for altricial agent autonomy and alignment.
 * **[The Agency of Mushrooms / VRE-Lab]:** Virtual reality environment modeling mycelium network dynamics to teach reciprocal governance concepts.
 * **[Neurodivergent-Biocentric AI Alignment Strategy](https://github.com/colleenpridemore/neurodivergent-biocentric-alignment):** Frameworks for compassionate, universally beneficial AI systems.
 
